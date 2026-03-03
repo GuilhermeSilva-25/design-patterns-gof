@@ -1,0 +1,28 @@
+# Java
+*.class
+*.jar
+*.war
+.settings/
+.project
+.classpath
+bin/
+target/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# JavaScript / Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.env
+
+# IDEs
+.idea/
+.vscode/
+.DS_Store
